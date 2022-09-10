@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="upKqla3JqGiEDyGDhdd9pp6">
   <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <dc:title>新五代史</dc:title>
-    <dc:creator opf:role="aut" opf:file-as="北宋·歐陽修撰 &amp; 徐無黨注">北宋·歐陽修撰</dc:creator>
-    <dc:creator opf:role="aut">徐無黨注</dc:creator>
+    <dc:creator opf:role="aut" opf:file-as="北宋·歐陽修 &amp; 徐無黨">北宋·歐陽修</dc:creator>
+    <dc:creator opf:role="aut">徐無黨</dc:creator>
     <dc:contributor opf:role="bkp">calibre (6.4.0) [https://calibre-ebook.com]</dc:contributor>
     <dc:date>0101-01-01T00:00:00+00:00</dc:date>
     <dc:description>&lt;div&gt;
@@ -16,12 +16,12 @@
     <dc:subject>斷代史</dc:subject>
     <dc:subject>新五代史</dc:subject>
     <dc:language>zh-TW</dc:language>
-    <dc:identifier opf:scheme="calibre">27878902-59eb-40d0-9cf6-20691a498538</dc:identifier>
+    <dc:identifier opf:scheme="calibre">130f9b8c-25a3-4216-805b-66c4ea3e5f7f</dc:identifier>
     <meta content="2022-05-24T13:44:09.382584+00:00" name="calibre:timestamp"/>
     <meta content="新五代史" name="calibre:title_sort"/>
     <meta name="cover" content="cover"/>
     <meta content="horizontal-lr" name="primary-writing-mode"/>
-    <meta content="{&quot;北宋·歐陽修撰&quot;: &quot;&quot;, &quot;徐無黨注&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="{&quot;北宋·歐陽修&quot;: &quot;&quot;, &quot;徐無黨&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
     <meta content="二十四史" name="calibre:series"/>
     <meta content="1.0" name="calibre:series_index"/>
     <meta content="4.0" name="calibre:rating"/>
